@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/kochbuch/tools/entities.dtd">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:ht="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/Kochbuch50/tools/recipe.xsd      http://www.w3.org/1999/xhtml file:///c:/Users/nlutt/Documents/websites/Kochbuch50/tools/xhtml.xsd" rcpID="K50-01-07">
+    <fr:meta>
+        <fr:book>Kochbuch50</fr:book>
+        <fr:chapter>01 Gemüsegerichte</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Sauerkraut-Muscheln Bologneser Art</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>4</fr:igdtQuantity>
+                <fr:igdtName ref="muscheln">Jacobsmuschelschalen</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>4 - 8 Scheiben</fr:igdtQuantity>
+                <fr:igdtName ref="speck">Schinkenspeck</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>2 - 4 Scheiben</fr:igdtQuantity>
+                <fr:igdtName ref="schinken">Kochschinken</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>8 EL</fr:igdtQuantity>
+                <fr:igdtName ref="sauerkraut">Weinsauerkraut</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>100 g</fr:igdtQuantity>
+                <fr:igdtName ref="käse">geriebener Käse</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="butter">Butter</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions/>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>
