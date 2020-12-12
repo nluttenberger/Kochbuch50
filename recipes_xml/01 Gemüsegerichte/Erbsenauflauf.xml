@@ -44,7 +44,12 @@
             </fr:igdtListLine>
         </fr:igdtList>
     </fr:recipeIngredients>
-    <fr:recipeInstructions>         <fr:instruction>             <fr:instrStepName/>             <fr:instrStepText/>         </fr:instruction>     </fr:recipeInstructions>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName/>
+            <fr:instrStepText/>
+        </fr:instruction>
+    </fr:recipeInstructions>
     <fr:recipeSideDish/>
     <fr:recipeOrigin/>
     <fr:recipeSeeAlso/>
